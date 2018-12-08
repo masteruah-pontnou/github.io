@@ -1,3 +1,3 @@
 # uah
 
-https://masteruah-pontnou/github.io/index.html
+https://masteruah-pontnou.github.io/orguah/index.html
